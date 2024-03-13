@@ -1,6 +1,3 @@
-ithis is juma
+this is juma
 having my devops
 this is juma
-
-this is git class
-this line will delete
